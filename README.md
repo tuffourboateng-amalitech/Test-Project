@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 The first step to running this repo locally is downloading the code by cloning the repository
 
-`git clone https://github.com/abdulmanafsulleyman/testproject.git`
+`https://github.com/tuffourboateng-amalitech/Test-Project.git`
 
 After cloning, do the following:
 
